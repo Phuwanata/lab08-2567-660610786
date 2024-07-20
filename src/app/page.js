@@ -30,7 +30,7 @@ function Home() {
       </div>
 
       {/* Footer section */}
-      <Footer year="2024" fullname="Ratchanon Chaiwong" studentid="660610789" />
+      <Footer year="2024" fullname="Phuwanat Taratipprai" studentid="660610786" />
     </div>
   );
 }
